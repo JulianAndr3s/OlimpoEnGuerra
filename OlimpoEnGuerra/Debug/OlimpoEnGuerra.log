@@ -1,0 +1,9 @@
+﻿  Render.cpp
+  Main.cpp
+  Juego.cpp
+d:\usuario\desktop\julián andrés\universidad\escritorio\ultimo de poo\final - poo\olimpoenguerra\olimpoenguerra\juego.cpp(32): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Carta.cpp
+  Actor.cpp
+  Generando código...
+  OlimpoEnGuerra.vcxproj -> D:\Usuario\Desktop\Julián Andrés\Universidad\Escritorio\Ultimo de POO\Final - POO\OlimpoEnGuerra\Debug\OlimpoEnGuerra.exe
+  OlimpoEnGuerra.vcxproj -> D:\Usuario\Desktop\Julián Andrés\Universidad\Escritorio\Ultimo de POO\Final - POO\OlimpoEnGuerra\Debug\OlimpoEnGuerra.pdb (Full PDB)
